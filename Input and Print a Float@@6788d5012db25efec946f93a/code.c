@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
-{int n
+{int n;
     scanf("%f",n);
     printf("value is:",n);
 
