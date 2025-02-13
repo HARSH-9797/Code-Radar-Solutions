@@ -3,6 +3,6 @@ int main()
 {
     float a,b;
     scanf("%f %f/n",a,b);
-    printf("their product is : %f",ab);
+    printf("their product is : %.2f",ab);
     return 0;
 }
