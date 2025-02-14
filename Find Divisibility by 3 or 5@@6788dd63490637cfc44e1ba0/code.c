@@ -20,7 +20,7 @@
 
 int main() {
     int a;
-    printf("Enter a number: ");
+    
     scanf("%d", &a);
 
     if (a % 3 == 0 && a % 5 == 0) {
