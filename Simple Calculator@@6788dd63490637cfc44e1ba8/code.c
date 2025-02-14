@@ -33,7 +33,7 @@ int main()
         }
         else
         {
-            printf("Error \n");
+            printf("error \n");
         }
         break;
 
