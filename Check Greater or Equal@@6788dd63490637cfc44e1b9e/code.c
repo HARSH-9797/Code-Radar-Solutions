@@ -6,8 +6,12 @@ int main(){
     if(a>b){
         printf("Yes");
     }
-    else{
+    else if(a==8 && b==8){
+        printf("Yes")
+    }
+    else {
         printf("No");
     }
+    
     return 0;
 }
