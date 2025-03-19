@@ -5,7 +5,7 @@ int main(){
     for (int i = 0; i < n; i++)
     {
         // this for lopp prints(2*i+1)stars
-        for (int j = 0; j < 2*i+1; j++)
+        for (int j = 0; j <= i; j++)
         {
             printf("*");
         }
